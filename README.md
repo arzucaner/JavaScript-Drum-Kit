@@ -1,2 +1,8 @@
-# JavaScript-Drum-Kit
-This is the first project of JavaScript30 Challenge. In this project, when you hit the corresponding key on your keyboard, it will do two things:   It will play the sound that's associated with that key It will do short little animation where it pops the button up to be bigger than we want and also apply yellow border.
+# JavaScript Drum Kit
+
+---
+
+
+## This project is a part of the JavaScript30 Challenge, a coding challenge created by Wes Bos. The specific project is called "JavaScript Drum Kit" and it involves creating a virtual drum kit using HTML, CSS, and JavaScript.
+
+The main goal of this project is to create a responsive web page that mimics the functionality of a physical drum kit. The user can press different keys on their keyboard to trigger corresponding drum sounds, and the web page will visually display which key was pressed and play the corresponding sound. The project also includes custom CSS animations to add visual feedback when a drum is played.
